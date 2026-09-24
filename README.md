@@ -1,2 +1,3 @@
 # test_repo
-Test repository
+This is our Test repository
+we use this for practice
